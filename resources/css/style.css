@@ -1,7 +1,24 @@
-.h1 {
+h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+.cta {
+  color: red;
+  font-size: 16px;
+  text-align: center;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
+.gray {
+  color: gray;
+}
+.footer {
+  text-align: right;
+  color: gray;
 }
